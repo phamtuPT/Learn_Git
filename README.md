@@ -1,5 +1,7 @@
 # Learn_Git
 
+<div align="center">
+
 ## 📌 Các câu lệnh Git phổ biến
 
 | STT | Lệnh Git                      | Mô tả chức năng                                             |
@@ -16,3 +18,6 @@
 | 10  | `git merge <branch>`          | Gộp một nhánh vào nhánh hiện tại                            |
 | 11  | `git pull`                    | Lấy và gộp code mới nhất từ repository từ xa               |
 | 12  | `git push`                    | Đẩy các thay đổi từ local lên repository từ xa              |
+
+
+</div>
